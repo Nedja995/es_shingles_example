@@ -19,7 +19,7 @@ PUT /test
       "filter": {
         "filter_shingle": {
           "type": "shingle",
-          "max_shingle_size": 2,
+          "max_shingle_size": 4,
           "min_shingle_size": 2,
           "output_unigrams": "false"
         }
